@@ -1,0 +1,26 @@
+{
+    "name": "e-kevin/dsn",
+    "description": "dsn helpers class",
+    "keywords": [
+        "helper",
+        "dsn",
+        "yii"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "E-Kevin",
+            "email": "e-kevin@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ekevin\\dsn\\": "src"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
+}
