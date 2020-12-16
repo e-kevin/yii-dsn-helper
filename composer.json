@@ -1,5 +1,5 @@
 {
-    "name": "e-kevin/dsn",
+    "name": "e-kevin/yii-dsn-helper",
     "description": "dsn helpers class",
     "keywords": [
         "helper",
@@ -7,20 +7,19 @@
         "yii"
     ],
     "license": "MIT",
+    "homepage": "https://github.com/e-kevin/yii-dsn-helper",
     "authors": [
         {
             "name": "E-Kevin",
             "email": "e-kevin@qq.com"
         }
     ],
+    "require": {
+        "e-kevin/engine-core": "*"
+    },
     "autoload": {
         "psr-4": {
             "ekevin\\dsn\\": "src"
-        }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0.x-dev"
         }
     }
 }

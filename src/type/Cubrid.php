@@ -1,6 +1,6 @@
 <?php
 /**
- * @link https://github.com/e-kevin/dsn
+ * @link https://github.com/e-kevin/yii-dsn-helper
  * @copyright Copyright (c) 2020 E-Kevin
  * @license MIT
  */
